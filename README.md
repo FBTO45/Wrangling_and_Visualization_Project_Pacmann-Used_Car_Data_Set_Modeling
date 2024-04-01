@@ -51,7 +51,7 @@
 
 ## E. Dashboard Visualisasi
 
-<center> *Visualisasi yang dibuat menggunakan Tableau*
+<center> **Visualisasi yang dibuat menggunakan Tableau**
 <p align='center'>
 <a href="https://public.tableau.com/">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
