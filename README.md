@@ -164,9 +164,9 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
 <a href="https://www.mckinsey.com/~/media/mckinsey/featured%20insights/mckinsey%20global%20surveys/mckinsey-global-surveys-2021-a-year-in-review.pdf">
     <img src="https://img.shields.io/badge/capstoneresearch/-2F4F4F?style=for-the-badge&logo=capstoneresearch&logoColor=white)"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.stat.cmu.edu/capstoneresearch/315files_s22/team1.html">
+<!-- <a href="https://www.stat.cmu.edu/capstoneresearch/315files_s22/team1.html">
   <img src="https://img.shields.io/badge//media/mckinsey/featured%20insights/mckinsey%20global%20surveys/mckinsey-global-surveys-2021-a-year-in-review1-2F4F4F?style=for-the-badge&logo=capstoneresearch/315files_s22&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 <a href="https://www.stat.cmu.edu/capstoneresearch/">
   <img src="https://img.shields.io/badge/capstoneresearch/-2F4F4F?style=for-the-badge&logo=capstoneresearch&logoColor=white"/>
 </a>&nbsp;&nbsp;
@@ -176,9 +176,9 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
 <a href="https://pacmann.io/course/class-detail/1055">
   <img src="https://img.shields.io/badge/Pacmann%20Course-004263?style=for-the-badge&logo=pacmann&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.data-to-viz.com/">
+<!-- <a href="https://www.data-to-viz.com/">
 <img src="https://img.shields.io/badge/data-to-viz.com-004263?style=for-the-badge&logo=data-to-viz&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 <a href="https://clauswilke.com/dataviz/introduction.html#ugly-bad-and-wrong-figures">
 <img src="https://img.shields.io/badge/dataviz/introduction-004263?style=for-the-badge&logo=dataviz&logoColor=white"/>
 </a>&nbsp;&nbsp;
