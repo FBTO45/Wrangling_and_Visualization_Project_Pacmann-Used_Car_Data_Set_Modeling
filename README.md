@@ -162,7 +162,7 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
 ----
 <p align='center'>
 <a href="https://www.mckinsey.com/~/media/mckinsey/featured%20insights/mckinsey%20global%20surveys/mckinsey-global-surveys-2021-a-year-in-review.pdf">
-    <img src="https://img.shields.io/badge/media/mckinsey/featured%20insights/mckinsey%20global%20surveys/mckinsey-global-surveys-2021-a-year-in-review.pdf-2F4F4F?style=for-the-badge&logo=pdf&logoColor=white"/>
+    <img src="https://img.shields.io/badge/media/mckinsey/featured%20insight&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.stat.cmu.edu/capstoneresearch/315files_s22/team1.html">
   <img src="https://img.shields.io/badge/capstoneresearch/315files_s22/team1.html-2F4F4F?style=for-the-badge&logo=edu&logoColor=white"/>
