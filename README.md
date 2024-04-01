@@ -177,7 +177,7 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
   <img src="https://img.shields.io/badge/Pacmann%20Course-004263?style=for-the-badge&logo=pacmann&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.data-to-viz.com/">
-<img src="https://img.shields.io/badge/data-to-viz-004263?style=for-the-badge&logo=data&logoColor=white"/>
+<img src="https://img.shields.io/badge/data-to-viz-004263?style=for-the-badge&logo=data-to-viz&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://clauswilke.com/dataviz/introduction.html#ugly-bad-and-wrong-figures">
 <img src="https://img.shields.io/badge/dataviz/introduction-004263?style=for-the-badge&logo=dataviz&logoColor=white"/>
