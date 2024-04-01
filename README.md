@@ -54,7 +54,7 @@
 <center> **Visualisasi yang dibuat menggunakan Tableau** </center>
   
 <p align='center'>
-<a href="https://public.tableau.com/">
+<a href="[https://public.tableau.com/](https://public.tableau.com/views/visualisationproject_17119371757720/DashboardAnalisisIklanPenjualanMobilBekas?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </a>&nbsp;&nbsp;
 </p>
@@ -139,16 +139,16 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
 ## J. Link
 <p align='center'>
 
-<a href="">
+<a href="https://youtu.be/p4JRzTve51Y">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/febrianto-078f/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="">
+<a href="https://medium.com/@febrianto078/analisis-pasar-mobil-bekas-di-ebay-kleinanzeigen-tren-preferensi-pengguna-dan-7b009b2da7eb">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="">
+<a href="https://github.com/FBTO45/Wrangling_and_Visualization_Project_Pacmann-Used_Car_Data_Set_Modeling">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;&nbsp;
 </p>
