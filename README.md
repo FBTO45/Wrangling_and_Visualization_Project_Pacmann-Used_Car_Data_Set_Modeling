@@ -162,13 +162,13 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
 ----
 <p align='center'>
 <a href="https://www.mckinsey.com/~/media/mckinsey/featured%20insights/mckinsey%20global%20surveys/mckinsey-global-surveys-2021-a-year-in-review.pdf">
-    <img src="https://img.shields.io/badge/media/mckinsey/featured%20insight&logoColor=white"/>
+    <img src="https://img.shields.io/badge/capstoneresearch/-2F4F4F?style=for-the-badge&logo=capstoneresearch&logoColor=white)"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.stat.cmu.edu/capstoneresearch/315files_s22/team1.html">
-  <img src="https://img.shields.io/badge/capstoneresearch/315files_s22/team1.html-2F4F4F?style=for-the-badge&logo=edu&logoColor=white"/>
+  <img src="https://img.shields.io/badge//media/mckinsey/featured%20insights/mckinsey%20global%20surveys/mckinsey-global-surveys-2021-a-year-in-review1-2F4F4F?style=for-the-badge&logo=capstoneresearch/315files_s22&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.stat.cmu.edu/capstoneresearch/">
-  <img src="https://img.shields.io/badge/stat.cmu.edu/capstoneresearch/-2F4F4F?style=for-the-badge&logo=capstoneresearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/capstoneresearch/-2F4F4F?style=for-the-badge&logo=capstoneresearch&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/app/discover">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
