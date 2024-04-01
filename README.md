@@ -168,7 +168,7 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
   <img src="https://img.shields.io/badge/capstoneresearch/315files_s22/team1.html-2F4F4F?style=for-the-badge&logo=edu&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.stat.cmu.edu/capstoneresearch/">
-  <img src="https://img.shields.io/badge/capstoneresearch-2F4F4F?style=for-the-badge&logo=edu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/stat.cmu.edu/capstoneresearch/-2F4F4F?style=for-the-badge&logo=capstoneresearch&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/app/discover">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
@@ -177,7 +177,7 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
   <img src="https://img.shields.io/badge/Pacmann%20Course-004263?style=for-the-badge&logo=pacmann&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.data-to-viz.com/">
-<img src="https://img.shields.io/badge/data-to-viz-004263?style=for-the-badge&logo=data-to-viz&logoColor=white"/>
+<img src="https://img.shields.io/badge/data-to-viz.com-004263?style=for-the-badge&logo=data-to-viz&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://clauswilke.com/dataviz/introduction.html#ugly-bad-and-wrong-figures">
 <img src="https://img.shields.io/badge/dataviz/introduction-004263?style=for-the-badge&logo=dataviz&logoColor=white"/>
