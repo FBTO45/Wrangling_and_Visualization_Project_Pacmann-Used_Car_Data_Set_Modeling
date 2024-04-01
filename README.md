@@ -60,29 +60,78 @@
 </p>
 
 ## F. Analisis
-
-* Trend tahun registrasi pada jenis kendaraan
+* Analisis 1
+  trend tahun registrasi pada jenis kendaraan
   grafik garis menunjukkan seberapa banyak jenis kendaraan yang dijual dan diiklankan berdasarkan tahun registrasi. Kendaran yang memiliki tahun registrasi dari tahun 1910-1995 hanya memiliki sedikit saja dari jumlah jenis kendaraan yang dijual.
-  Jenis kendaraan yang tahun registrasinya pada tahun 2000, tercatat ada 21.317 jenis kendaraan yang dijual secara online di platfrom e-Bay.
-  Lalu jenis kendaraan yang tahun registrasinya dari tahun 2001-2005 tercatat mengalami penurunan jumlah jenis kendaraan, dan mengalami kenaikan jumlah jenis kendaraan yang tahun registrasinya tahun 2016
+  Jenis kendaraan yang tahun registrasinya pada tahun 2000, tercatat ada 6.760 jenis kendaraan yang dijual secara online di platfrom e-Bay.
+  Lalu jenis kendaraan yang tahun registrasinya dari tahun 2001-2005 tercatat mengalami penurunan jumlah jenis kendaraan, dan mengalami kenaikan jumlah jenis kendaraan yang tahun registrasinya tahun 2016 sebesar 1293 kendaraan.
 
-* Total ketersediaan jenis kendaraan
-  Dari visualisasi tersebut tercatat bahwa total ketersediaan jenis kendaaraan terbanyak dimiliki oleh jenis kendaraan bertipe limousine, yaitu dengan total 56.027 unit. Terendah adalah andere, yaitu 1957 unit.
-  Sedangkan jika dilihat berdasarkan brand, terbanyak dimiliki oleh brand volkswagen dengan 42.923 unit, dan terendah dimiliki oleh brand mazda dengan 3.746 unit
 
-* Rata-rata harga kendaraan
-  Dari visualiasi tersebut, rata-rata harga kendaraan berdasarkan jenis kendaraan dan gearbox, tertinggi diperoleh jenis kendaraan bertipe suv sebesar 3.849 Euro, dengan gearbox automatic. dapat dilihat bawah harga kendaraan dengan gearbox automatic lebih dominan mahal dibandingkan gearbox manual.
-  Rata-rata harga kendaraan berdasarkan tipe bahan bakar, harga tertinggi diperoleh jenis kendaraan bertipe hybrid sebesar 3.29 Euro. untuk jenis gearbox-nya juga lebih dominan dengan tipe automatic.
-  Rata-rata harga kendaraan berdasarkan jenis kendaraan dan brand, tertinggi dimiliki oleh jenis kendaraan bertipe cabrio dengan brand mini sebesar 5.730 Euro. dan yang terendah dimiliki oleh jenis kendaraan yang bertipe other dengan brand jaguar sebesar 578 Euro.
-  Total rata-rata power kendaraan berdasarkan tipe kendaraan dan gearbox yaitu tertinggi dimiliki oleh jenis kendaraan bertipe suv dengan gearbox automatic sebesar 177.5 PS. dan powerPS dengan gearbox automatic lebih dominan kekuatannya dibandingkan yang lainnya.
+* Analisis 2
+  Total Ketersediaan jenis kendaraan
+  Dari visualisasi tersebut tercatat bahwa total ketersediaan jenis kendaaraan terbanyak dimiliki oleh jenis kendaraan bertipe limousine, yaitu dengan total 26.061 unit. Terendah adalah andere, yaitu 615 unit.
 
-* Total distribusi jumlah hari iklan dipasang sebelum terjual
+* Analisis 3
+  Sedangkan jika dilihat berdasarkan brand, terbanyak dimiliki oleh brand bmw dengan 16.698 unit, dan terendah dimiliki oleh brand porsche dengan 119 unit
+
+* Analisis 4
+  Dari visualiasi tersebut, rata-rata harga kendaraan berdasarkan jenis kendaraan dan gearbox, tertinggi diperoleh jenis kendaraan bertipe suv sebesar 4.037 Euro, dengan gearbox automatic. Dapat dilihat bawah harga kendaraan dengan gearbox automatic lebih dominan mahal dibandingkan gearbox manual.
+
+* Analisis 5
+  Rata-rata harga kendaraan berdasarkan tipe bahan bakar, harga tertinggi diperoleh jenis kendaraan bertipe hybrid sebesar 3.261 Euro. untuk jenis gearbox-nya juga lebih dominan dengan tipe automatic.
+
+* Analisis 6
+  Total rata-rata power kendaraan berdasarkan tipe kendaraan dan gearbox yaitu tertinggi dimiliki oleh jenis kendaraan bertipe andere dengan gearbox not-exit atau tidak diketahui jenisnya sebesar 207.2 PS. dan powerPS dengan gearbox automatic lebih dominan kekuatannya dibandingkan yang lainnya, lalu diikuti dengan gearbox jenis manual.
+
+* Analisis 7
+  Rata-rata harga kendaraan berdasarkan jenis kendaraan dan brand, tertinggi dimiliki oleh jenis kendaraan bertipe cabrio dengan brand lada sebesar 5.000 Euro. dan yang terendah dimiliki oleh jenis kendaraan yang bertipe other dengan brand hyundai sebesar 550 Euro.
+
+* Analisis 8
   Dari visualisasi tersebut, dapat dilihat distribusi jumlah hari iklan kendaraan yang dipasang untuk dijual, sebelum kendaraan tersebut terjual.
-  dimana analisis yang dipilih berdasarkan brand yang memiliki harga tertinggi dan terendah, yaitu brand mini dan jaguar.
+  dimana analisis yang dipilih berdasarkan brand.
 
 ## G. Kesimpulan
 
+* Analisis 1
+ tahun 1980-2016 adalah tahun untuk dapat dilakukan penjualan kendaraan. Pada tahun 2000 menjadi tahun tertinggi dengan total  kendaraan 6.760 unit.
+
+* Analisis 2
+  total ketersediaan jenis kendaaraan terbanyak dimiliki oleh jenis kendaraan bertipe limousine, yaitu dengan total 26.061 unit. Terendah adalah andere, yaitu 615 unit.
+
+* Analisis 3
+  Ketersediaan kendaraan berdasarkan brand, terbanyak dimiliki oleh brand bmw dengan 16.698 unit, dan terendah dimiliki oleh brand porsche dengan 119 unit
+
+* Analisis 4
+  rata-rata harga kendaraan berdasarkan jenis kendaraan dan gearbox, tertinggi diperoleh jenis kendaraan bertipe suv sebesar 4.037 Euro, dengan gearbox automatic.
+
+* Analisis 5
+  Rata-rata harga kendaraan berdasarkan tipe bahan bakar, harga tertinggi diperoleh jenis kendaraan bertipe hybrid sebesar 3.261 Euro.
+
+* Analisis 6
+  Total rata-rata power kendaraan berdasarkan tipe kendaraan dan gearbox yaitu tertinggi dimiliki oleh jenis kendaraan bertipe andere dengan gearbox not-exit atau tidak diketahui jenisnya sebesar 207.2 PS.
+
+* Analisis 7
+  Rata-rata harga kendaraan berdasarkan jenis kendaraan dan brand, tertinggi dimiliki oleh jenis kendaraan bertipe cabrio dengan brand lada sebesar 5.000 Euro. dan yang terendah dimiliki tipe other dengan brand hyundai sebesar 550 Euro.
+
+* Analisis 8
+  Berdasarkan total hari iklan terpasang, dapat ditemukan bahwa jenis kendaraan berdasarkan brand yang terjual cepat secara online dibandingkan yang lain.
+
 ## H. Rekomendasi
+
+Rekomendasi yang tepat untuk manajer tim pemasaran berdasarkan temuan bahwa jenis kendaraan berdasarkan merek yang terjual cepat secara online adalah sebagai berikut:
+
+1. Penekanan pada Iklan Berbasis Merek: Dalam strategi pemasaran online, fokuskan upaya iklan lebih pada merek-merek kendaraan yang telah terbukti terjual dengan cepat. Ini dapat mencakup peningkatan anggaran iklan, peningkatan frekuensi, atau peningkatan kreativitas dalam iklan untuk merek-merek ini.
+
+2. Optimasi Situs Web dan Platform Online: Pastikan bahwa situs web dan platform online Anda dioptimalkan untuk meningkatkan visibilitas dan konversi kendaraan merek yang terjual cepat. Ini mungkin melibatkan peningkatan SEO, tampilan yang lebih menarik, dan navigasi yang intuitif.
+
+3. Analisis Data Lanjutan: Terus pantau dan analisis data penjualan untuk memahami tren lebih lanjut tentang merek-merek kendaraan yang terjual cepat. Ini akan membantu dalam penyesuaian strategi pemasaran secara real-time.
+
+Kolaborasi dengan Pihak Eksternal: bisa melalui kemitraan iklan atau kampanye gabungan lainnya.
+
+4. Personalisasi Konten: Lebih lanjut personalisasikan konten pemasaran untuk target audiens yang cenderung membeli merek kendaraan tertentu. Ini bisa melibatkan penggunaan data pelanggan untuk menyesuaikan pesan iklan.
+
+Dengan menerapkan rekomendasi ini, manajer tim pemasaran dapat memanfaatkan temuan tentang merek kendaraan yang terjual cepat secara online untuk meningkatkan kinerja keseluruhan kampanye pemasaran mereka.
+
 
 ## I. Stakeholder
 Manajer Tim Marketing e-Bay Kleinanzeigen
