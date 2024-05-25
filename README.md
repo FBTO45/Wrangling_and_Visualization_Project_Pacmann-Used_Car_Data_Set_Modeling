@@ -92,29 +92,7 @@
 
 ## G. Kesimpulan
 
-* Analisis 1
- tahun 1980-2016 adalah tahun untuk dapat dilakukan penjualan kendaraan. Pada tahun 2000 menjadi tahun tertinggi dengan total  kendaraan 6.760 unit.
-
-* Analisis 2
-  total ketersediaan jenis kendaaraan terbanyak dimiliki oleh jenis kendaraan bertipe limousine, yaitu dengan total 26.061 unit. Terendah adalah andere, yaitu 615 unit.
-
-* Analisis 3
-  Ketersediaan kendaraan berdasarkan brand, terbanyak dimiliki oleh brand bmw dengan 16.698 unit, dan terendah dimiliki oleh brand porsche dengan 119 unit
-
-* Analisis 4
-  rata-rata harga kendaraan berdasarkan jenis kendaraan dan gearbox, tertinggi diperoleh jenis kendaraan bertipe suv sebesar 4.037 Euro, dengan gearbox automatic.
-
-* Analisis 5
-  Rata-rata harga kendaraan berdasarkan tipe bahan bakar, harga tertinggi diperoleh jenis kendaraan bertipe hybrid sebesar 3.261 Euro.
-
-* Analisis 6
-  Total rata-rata power kendaraan berdasarkan tipe kendaraan dan gearbox yaitu tertinggi dimiliki oleh jenis kendaraan bertipe andere dengan gearbox not-exit atau tidak diketahui jenisnya sebesar 207.2 PS.
-
-* Analisis 7
-  Rata-rata harga kendaraan berdasarkan jenis kendaraan dan brand, tertinggi dimiliki oleh jenis kendaraan bertipe cabrio dengan brand lada sebesar 5.000 Euro. dan yang terendah dimiliki tipe other dengan brand hyundai sebesar 550 Euro.
-
-* Analisis 8
-  Berdasarkan total hari iklan terpasang, dapat ditemukan bahwa jenis kendaraan berdasarkan brand yang terjual cepat secara online dibandingkan yang lain.
+Tahun 2000 merupakan puncak penjualan kendaraan, jenis kendaraan limousine dan brand BMW memiliki ketersediaan terbanyak, SUV dengan gearbox automatic memiliki harga rata-rata tertinggi, dan kendaraan hybrid memiliki harga rata-rata tertinggi berdasarkan tipe bahan bakar. Jenis kendaraan andere dengan gearbox not-exit memiliki total rata-rata power tertinggi. Kendaraan bertipe cabrio dengan brand Lada memiliki harga rata-rata tertinggi, sementara tipe other dengan brand Hyundai memiliki harga rata-rata terendah.
 
 ## H. Rekomendasi
 
